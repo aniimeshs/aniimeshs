@@ -19,6 +19,7 @@ Besides that, I’ve created weather apps, task trackers, and even an expense tr
 Right now, I’m deep into the CS50x 2025 course – really sharpening those computer science fundamentals. I’m also diving into Low-Level Design, System Design, and exploring how to take backend systems to production-level scale.
 
 📖 Books I Recommend
+
 These are gems that have shaped how I think and code:
 
 Grokking Algorithms – Aditya Y. Bhargava
